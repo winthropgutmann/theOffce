@@ -1,0 +1,1 @@
+ALTER TABLE episode ADD INDEX ix_season_episode (season,episode);

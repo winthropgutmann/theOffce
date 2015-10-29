@@ -1,0 +1,1 @@
+ALTER TABLE filter ADD INDEX ix_filter_id (id);
